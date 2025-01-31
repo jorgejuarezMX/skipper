@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: Evitar filas virtuales by @guillorrr
+! Title: Evitar filas virtuales by @jjuarez
 ! Expires: 1 hour
-! Homepage: https://gist.github.com/guillorrr/7e3928e42c98b9b6bb99b9783b22457c
+! Homepage: https://github.com/jorgejuarezMX
 ! Licence: https://www.wtfpl.net/txt/copying/
 ! Homepage: https://guillo.dev
 ! Version: 
